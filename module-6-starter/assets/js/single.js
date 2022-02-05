@@ -77,4 +77,4 @@ var displayIssues = function (issues) {
 }
 
 
-getRepoIssues("yahoo/react");
+getRepoIssues("facebook/react");
